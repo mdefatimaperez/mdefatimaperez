@@ -1,7 +1,7 @@
 # Hi everyone! ✨👋 I'm **Fatima**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc3MWM0ZTg2YmZjNjQ1MDIzNjViNmY3OTMxYWRjZDkxZjM3ZmUxMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcryptorank.io%2Fprice%2Fkeyboard-cat&psig=AOvVaw0FX8xZY_GEZk6KjoBLc2xT&ust=1744656148229000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjWiOPU1YwDFQAAAAAdAAAAABAE)" width="200"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcat-keyboard-gifs&psig=AOvVaw0FX8xZY_GEZk6KjoBLc2xT&ust=1744656148229000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjWiOPU1YwDFQAAAAAdAAAAABAw" width="200"/>
 </p>
 
 Welcome to my little corner of GitHub! I'm a developer hailing from **Argentina 🇦🇷** – usually with some mate 🧉 nearby and code on the screen! I absolutely love building the logic and magic ✨ that happens behind the scenes in web development; the **Backend** is definitely my happy place! 💻⚙️
