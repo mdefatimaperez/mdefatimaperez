@@ -1,5 +1,5 @@
 # Hi everyone! ✨👋 I'm **Fatima**
-
+<div font-size=50px>
 <p align="center">
   <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="300" alt="Fast typing cat GIF"/>
 </p>
@@ -51,3 +51,4 @@ Got a cool idea, an interesting project, or just want to chat about tech? I'd lo
 <br>
 
 <p align="center">Thanks for stopping by my profile! 🌸💖</p>
+</div>
