@@ -1,7 +1,7 @@
 # Hi everyone! ✨👋 I'm **Fatima**
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcat-keyboard-gifs&psig=AOvVaw0FX8xZY_GEZk6KjoBLc2xT&ust=1744656148229000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjWiOPU1YwDFQAAAAAdAAAAABAw" width="200"/>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" alt="Cute cat typing on a keyboard GIF"/>
 </p>
 
 Welcome to my little corner of GitHub! I'm a developer hailing from **Argentina 🇦🇷** – usually with some mate 🧉 nearby and code on the screen! I absolutely love building the logic and magic ✨ that happens behind the scenes in web development; the **Backend** is definitely my happy place! 💻⚙️
@@ -34,7 +34,9 @@ Got a cool idea, an interesting project, or just want to chat about tech? I'd lo
 
 ---
 
-
+<p align="center">
+  <strong>✨ A Visual Look at My Tools: ✨</strong>
+</p>
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40"/>  
   <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" height="40"/>  
@@ -43,7 +45,7 @@ Got a cool idea, an interesting project, or just want to chat about tech? I'd lo
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="40" height="40"/>  
   <img src="https://cdn.simpleicons.org/express/000000" alt="Express" width="40" height="40"/>  
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>  
-  <img src="https://cdn.simpleicons.org/csharp/239120" alt="C#" width="40" height="40"/>  
+  <img src="https://cdn.simpleicons.org/csharp/512BD4" alt="C#" width="40" height="40"/>  
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" width="40" height="40"/>  
 </p>
 
