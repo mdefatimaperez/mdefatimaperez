@@ -1,7 +1,7 @@
 # Hi everyone! ✨👋 I'm **Fatima**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" alt="Cute cat typing on a keyboard GIF"/>
+  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="300" alt="Fast typing cat GIF"/>
 </p>
 
 Welcome to my little corner of GitHub! I'm a developer hailing from **Argentina 🇦🇷** – usually with some mate 🧉 nearby and code on the screen! I absolutely love building the logic and magic ✨ that happens behind the scenes in web development; the **Backend** is definitely my happy place! 💻⚙️
