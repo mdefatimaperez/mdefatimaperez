@@ -44,7 +44,7 @@ Got a cool idea, an interesting project, or just want to chat about tech? I'd lo
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="50" height="50"/>  
   <img src="https://cdn.simpleicons.org/express/000000" alt="Express" width="50" height="50"/>  
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="50" height="50"/>  
-  <img src="./csharp.svg" alt="C#" width="50" height="50"/>  
+  <img src="./csharp-logo.png" alt="C#" width="40" height="40"/>  
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" width="50" height="50"/>  
 </p>
 
