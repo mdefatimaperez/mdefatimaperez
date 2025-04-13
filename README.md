@@ -8,8 +8,6 @@ Welcome to my little corner of GitHub! I'm a developer hailing from **Argentina 
 
 Currently, I'm excitedly taking my first steps and exploring the fascinating world of **Cybersecurity** 🛡️🔒 with tons of curiosity. Always ready to learn something new and help protect the digital realm! 🦸‍♀️
 
-💬 **Languages I Speak:** 🇦🇷 Spanish (Native) | 🇬🇧 English (Fluent)
-
 ---
 
 ### <p align="center">My Tech Toolkit 💖</p>
