@@ -1,5 +1,5 @@
 # Hi everyone! ✨👋 I'm **Fatima**
-<div font-size=50px>
+
 <p align="center">
   <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="300" alt="Fast typing cat GIF"/>
 </p>
@@ -37,18 +37,18 @@ Got a cool idea, an interesting project, or just want to chat about tech? I'd lo
 <p align="center">
 </p>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="50" height="50"/>&nbsp&nbsp&nbsp&nbsp
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="50" height="50"/>&nbsp&nbsp&nbsp&nbsp
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="50" height="50"/>&nbsp&nbsp&nbsp&nbsp  
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="50" height="50"/>&nbsp&nbsp&nbsp&nbsp  
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="50" height="50"/>&nbsp&nbsp&nbsp&nbsp  
-  <img src="https://cdn.simpleicons.org/express/000000" alt="Express" width="50" height="50"/>&nbsp&nbsp&nbsp&nbsp  
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="50" height="50"/>&nbsp&nbsp&nbsp&nbsp  
-  <img src="./csharp-logo.PNG" alt="C#" width="50" height="50"/>&nbsp&nbsp&nbsp&nbsp  
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" width="50" height="50"/>  
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp  
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp  
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp  
+  <img src="https://cdn.simpleicons.org/express/000000" alt="Express" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp  
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp  
+  <img src="./csharp-logo.PNG" alt="C#" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp  
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" width="60" height="60"/>  
 </p>
 
 <br>
 
 <p align="center">Thanks for stopping by my profile! 🌸💖</p>
-</div>
+
