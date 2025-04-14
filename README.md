@@ -14,15 +14,7 @@ Currently, I'm excitedly taking my first steps and exploring the fascinating wor
 
 Here are some of the technologies and tools I feel comfortable working and creating with:
 
-*   HTML
-*   CSS 
-*   Tailwind CSS
-*   JavaScript
-*   Node.js
-*   Express
-*   Python
-*   C#
-*   .NET
+* HTML * CSS * Tailwind CSS * JavaScript * Node.js * Express * Python * C# * .NET *
 
 ---
 
