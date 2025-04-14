@@ -14,9 +14,9 @@ Currently, I'm excitedly taking my first steps and exploring the fascinating wor
 
 Here are some of the technologies and tools I feel comfortable working and creating with:
 
-* HTML * CSS * Tailwind CSS * JavaScript * Node.js * Express * Python * C# * .NET *
 <br>
 <p align="center">
+   HTML * CSS * Tailwind CSS * JavaScript * Node.js * Express * Python * C# * .NET 
 </p>
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp
