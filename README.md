@@ -15,15 +15,7 @@ Currently, I'm excitedly taking my first steps and exploring the fascinating wor
 Here are some of the technologies and tools I feel comfortable working and creating with:
 
 * HTML * CSS * Tailwind CSS * JavaScript * Node.js * Express * Python * C# * .NET *
-
----
-
-### <p align="center">Let's Create Something Fun Together? 🚀</p>
-
-Got a cool idea, an interesting project, or just want to chat about tech? I'd love that! **Feel free to send me a message** 💌. I'm always open to collaborations and connecting with awesome people! 😊
-
----
-
+<br>
 <p align="center">
 </p>
 <p align="center">
@@ -37,6 +29,15 @@ Got a cool idea, an interesting project, or just want to chat about tech? I'd lo
   <img src="./csharp-logo.PNG" alt="C#" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp  
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" width="60" height="60"/>  
 </p>
+<br>
+---
+
+### <p align="center">Let's Create Something Fun Together? 🚀</p>
+
+Got a cool idea, an interesting project, or just want to chat about tech? I'd love that! **Feel free to send me a message** 💌. I'm always open to collaborations and connecting with awesome people! 😊
+
+---
+
 
 <br>
 
