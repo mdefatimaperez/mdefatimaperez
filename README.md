@@ -31,12 +31,6 @@ Here are some of the technologies and tools I feel comfortable working and creat
 
 ---
 
-### <p align="center">Let's Create Something Fun Together? 🚀</p>
-
-Got a cool idea, an interesting project, or just want to chat about tech? I'd love that! **Feel free to send me a message** 💌. I'm always open to collaborations and connecting with awesome people! 😊
-
----
-
 
 <br>
 
