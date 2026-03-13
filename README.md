@@ -1,7 +1,7 @@
 # Hi everyone! ✨👋 I'm **Fatima**
 
 
-Welcome to my little corner of GitHub! I'm a developer hailing from **Argentina 🇦🇷** – usually with some mate 🧉 nearby and code on the screen! I absolutely love building the logic and magic ✨ that happens behind the scenes in web development; the **Backend** is definitely my happy place! 💻⚙️
+Welcome to my little corner of GitHub! 
 
 Currently, I'm excitedly taking my first steps and exploring the fascinating world of **Cybersecurity** 🛡️🔒 with tons of curiosity. Always ready to learn something new and help protect the digital realm! 🦸‍♀️
 
@@ -9,7 +9,6 @@ Currently, I'm excitedly taking my first steps and exploring the fascinating wor
 
 ### <p align="center">My Tech Toolkit 💖</p>
 
-Here are some of the technologies and tools I feel comfortable working and creating with:
 
 <br>
 
