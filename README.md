@@ -57,8 +57,6 @@ Soy **Fátima**, desarrolladora en transición hacia **ciberseguridad** y **help
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mdefatimaperez&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ED93B1&icon_color=7F77DD&text_color=EEEDFE&ring_color=D4537E)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdefatimaperez&layout=compact&hide_border=true&bg_color=0d1117&title_color=ED93B1&text_color=EEEDFE)
 
 ![Streak](https://streak-stats.demolab.com?user=mdefatimaperez&hide_border=true&background=0d1117&ring=ED93B1&fire=D4537E&currStreakLabel=7F77DD&sideLabels=7F77DD&dates=EEEDFE)
